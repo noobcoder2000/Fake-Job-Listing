@@ -1,4 +1,4 @@
-Here's the text formatted as a README file with headings made bold and left-aligned using HTML tags:
+
 
 # Fake Job Listing Detection with Machine Learning
 
